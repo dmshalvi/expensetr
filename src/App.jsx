@@ -1,5 +1,3 @@
-'use client'
-
 import React, { useState } from 'react';
 import './App.css';
 import TransactionForm from './components/TransactionForm';
