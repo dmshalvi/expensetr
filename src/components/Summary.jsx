@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react';
 
 function Summary({ balance, income, expenses }) {
